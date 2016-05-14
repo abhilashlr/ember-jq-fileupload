@@ -7,6 +7,11 @@ This addon is an Ember wrapper on top of [jquery file upload](https://github.com
 
 All options are enabled in this addon. Please raise a request if you would like to see any options missed out.
 
+## Usage:
+{{file-upload <options> <callbacks>}}
+
+* url is mandatory
+
 ## Options available:
 
 ### [autoUpload](https://github.com/blueimp/jQuery-File-Upload/wiki/Options#autoupload)
