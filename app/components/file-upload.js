@@ -1,1 +1,0 @@
-export { default } from 'ember-jq-fileupload/components/file-upload';
