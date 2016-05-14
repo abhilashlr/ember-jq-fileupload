@@ -1,5 +1,8 @@
 # Ember-jq-fileupload
 
+[![Build Status](https://travis-ci.org/abhilashlr/ember-jq-fileupload.svg?branch=master)](https://travis-ci.org/abhilashlr/ember-jq-fileupload)
+[![NPM Version](https://img.shields.io/npm/v/ember-jq-fileupload.svg)](https://www.npmjs.com/package/ember-jq-fileupload)
+
 This addon is an Ember wrapper on top of [jquery file upload](https://github.com/blueimp/jQuery-File-Upload).
 
 All options are enabled in this addon. Please raise a request if you would like to see any options missed out.
