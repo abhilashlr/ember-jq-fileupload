@@ -3,10 +3,9 @@
 var EmberAddon = require('ember-cli/lib/broccoli/ember-addon');
 
 module.exports = function(defaults) {
-  var app = new EmberAddon(defaults, { });
-
-  app.import('vendor/blueimp-file-upload/js/vendor/jquery.ui.widget.js');
-  app.import('vendor/blueimp-file-upload/js/jquery.fileupload.js');
+  var app = new EmberAddon(defaults, {
+    // Add options here
+  });
 
   /*
     This build file specifies the options for the dummy test app of this
